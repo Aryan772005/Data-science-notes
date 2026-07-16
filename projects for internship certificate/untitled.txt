@@ -1,0 +1,34 @@
+
+Project 4: Insight Discovery through EDA
+
+✅ Extract insights that matter
+✅ Identify key trends, risks & opportunities
+✅ Perform detailed EDA on a real dataset
+✅ Translate findings into business language
+
+The code you've run completes the EDA visualizations, but you're still missing the business interpretation, which is usually what earns the highest marks.
+
+After your last graph, add a Markdown cell with the following:
+Key Trends
+Coffee products are the highest-selling category across all store locations.
+Sales are concentrated during specific hours of the day, indicating peak customer demand.
+A small number of products contribute significantly to overall sales.
+Some store locations consistently outperform others.
+Risks
+The business relies heavily on a few product categories, increasing the risk if customer preferences change.
+Lower-performing stores may be experiencing operational or marketing challenges.
+Sales decrease during off-peak hours, leading to underutilized staff and resources.
+Opportunities
+Increase inventory for best-selling products to avoid stock shortages.
+Introduce promotional offers during slow hours to boost sales.
+Replicate successful strategies from high-performing stores at lower-performing locations.
+Bundle low-selling products with popular items to improve overall sales.
+Business Recommendations
+Maintain sufficient inventory for high-demand coffee products.
+Schedule more staff during peak business hours to improve customer service.
+Launch targeted promotions during low-sales periods.
+Analyze high-performing store locations and apply successful practices across all stores.
+Monitor product performance regularly to optimize pricing and inventory decisions.
+Conclusion
+
+This exploratory data analysis identified important sales patterns, customer purchasing behavior, and product performance across the coffee shop business. The findings indicate opportunities to optimize inventory, staffing, and marketing strategies, ultimately improving operational efficiency and revenue growth.
